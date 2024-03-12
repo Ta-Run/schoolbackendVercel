@@ -1,0 +1,2 @@
+# schoolbackendVercel
+vercel deploy backend
